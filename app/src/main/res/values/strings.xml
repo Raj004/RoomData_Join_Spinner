@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Join26Jan</string>
+    <string name="create_new_depart">Create New Department</string>
+    <string name="title_activity_add__emp">Add_EmpActivity</string>
+    <string name="title_activity_add_emp">AddEmpActivity</string>
+    <string name="add_name">AddEmp name</string>
+    <string name="add_mobile">Add Mobile no.</string>
+    <string name="save_details">Save</string>
+    <string name="new_depart_name">Add new Department</string>
+</resources>
